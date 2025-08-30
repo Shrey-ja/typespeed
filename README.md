@@ -32,7 +32,7 @@ Typing speed in WPM
 
 ### Clone this repository:
 
-git clone https://github.com/Shrey-ja/typing-speed-test.git
+git clone https://github.com/Shrey-ja/typespeed.git
 
 
 ### Navigate into the project folder:
