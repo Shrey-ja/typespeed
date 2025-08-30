@@ -46,8 +46,8 @@ python project.py
 
 # Example Output 🖥️
 Your sentence is: hello, im a guy
-type=> hello, im a guy
- answered in: 5.23 sec
-Word Accuracy: 100.00%
-Time taken: 5.23 sec
-Typing speed: 34.38 WPM
+###type=> hello, im a guy
+ ###answered in: 5.23 sec
+###Word Accuracy: 100.00%
+###Time taken: 5.23 sec
+###Typing speed: 34.38 WPM
