@@ -1,9 +1,9 @@
-#Typing Speed Test 🖋️⌨️
+# Typing Speed Test 🖋️⌨️
 
 A simple Python project to test your typing speed and accuracy.
 It gives you a random sentence, measures the time you take to type it, and calculates both accuracy and words-per-minute (WPM).
 
-##Features ✨
+## Features ✨
 
 Generates a random sentence for typing practice.
 
@@ -13,7 +13,7 @@ Calculates word accuracy (correct words typed).
 
 Calculates character accuracy (correct characters typed).
 
-##How It Works ⚙️
+## How It Works ⚙️
 
 Run the program.
 
@@ -28,23 +28,23 @@ Time taken
 Accuracy (%)
 
 Typing speed in WPM
-##Installation 🛠️
+## Installation 🛠️
 
-###Clone this repository:
+### Clone this repository:
 
 git clone https://github.com/Shrey-ja/typing-speed-test.git
 
 
-###Navigate into the project folder:
+### Navigate into the project folder:
 
 cd typing-speed-test
 
 
-###Run the project:
+### Run the project:
 
 python project.py
 
-#Example Output 🖥️
+# Example Output 🖥️
 Your sentence is: hello, im a guy
 type=> hello, im a guy
  answered in: 5.23 sec
